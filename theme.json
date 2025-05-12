@@ -1,0 +1,14 @@
+{
+    "Light": {
+        "background": "#FFFFFF",
+        "text": "#000000",
+        "button_background": "#E0E0E0",
+        "button_text": "#000000"
+    },
+    "Dark": {
+        "background": "#3B3E40",
+        "text": "#FFFFFF",
+        "button_background": "#444747",
+        "button_text": "#FFFFFF"
+    }
+}

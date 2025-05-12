@@ -1,0 +1,11 @@
+__pycache__
+output
+runs
+build
+test*
+*.pt
+dist
+build
+_internal
+yolov5-onnx-pyqt-exe
+*.onnx
